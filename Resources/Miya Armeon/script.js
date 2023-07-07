@@ -3,5 +3,3 @@ $( ".tabs" ).tabs({
     show: { effect: "fadeIn", duration: 500 },
     hide: { effect: "fadeOut", duration: 500 }
 });
-
-$( document ).tooltip();

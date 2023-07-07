@@ -1,0 +1,24 @@
+body {
+    background-color: darkslategray;
+    color: lightsteelblue;
+}
+
+hr {
+    border-color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: slateblue;
+}
+
+a:visited {
+    color: mediumslateblue;
+}
