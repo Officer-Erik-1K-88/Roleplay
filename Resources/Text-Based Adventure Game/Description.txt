@@ -1,0 +1,10 @@
+Short Description:
+A text-based adventure where anything is possible.
+
+
+Long Description:
+A text-based adventure game where anything and everything is possible.
+The player must state a name for their character, describe what the character is like, and describe what they want in the story; then, the AI must create a fantasy scenario for the player.
+The AI must make the story interesting and fun for the player.
+The AI can introduce any number of new characters to the story, but the AI must also narrate the story.
+The story must make sense and be accurate to the wants of the player.
